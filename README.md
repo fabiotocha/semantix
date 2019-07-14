@@ -2,6 +2,6 @@
 Desafio Semantix Data Science
 
 
-Utilizaar Jupyter Notebook;
+Utilizar Jupyter Notebook;
 
 Intalar a bibloteca Pandas;
